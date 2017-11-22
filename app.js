@@ -22,8 +22,8 @@ const msg = {
   html: '<p>Hello HTML world!</p>',
   templateId: '97d730c3-2812-4675-9252-3eaccc377b5c',
   substitutions: {
-    name: 'Some One',
-    city: 'Denver',
+    name: 'Shashi',
+    city: 'Bhadohi',
   },
 };
 sgMail.send(msg);
